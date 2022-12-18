@@ -1,0 +1,19 @@
+#Btn
+{
+    width: 10%;
+} 
+#Webcam
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#Text_area
+{
+    width: 300px;
+}
